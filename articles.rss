@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+	<title>Eclipse and Java Information</title>
+	<link>http://www.varzesh3.com/rss/all</link>
+	<description>Eclipse and Java Information</description>
+	<language>en</language>
+	<copyright>Copyright hold by Lars Vogel</copyright>
+	<pubdate>Sun, 08 Jul 2018 14:20:35 +0430</pubdate>
+<item>
+	<title>RSSFeed</title>
+	<description>This is a description</description>
+	<link>myLink</link>
+	<author>Me</author>
+	<guid>this.com</guid>
+
+</item>
+
+</channel>
+</rss>
